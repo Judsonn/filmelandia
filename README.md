@@ -18,7 +18,7 @@
 
 ## 📱 Screenshot
 <p align="center">
-  <img alt="Filmelândia - Screenshots" src="assets/screenshots.png" width="50%">
+  <img alt="Filmelândia - Screenshots" src="assets/screenshots.png" width="60%">
 </p>
 
 <br>
